@@ -1,0 +1,17 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: cornsilk;
+    font-size: 3.5rem !important;
+}
+div h2 {
+    display: flex;
+    justify-content: flex-start;
+    color: cornsilk;
+    margin-top: 40px;
+    margin-left: 15px;
+    text-align: center;
+}
+.rowBlock {
+    margin-top: 90px;
+}

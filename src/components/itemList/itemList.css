@@ -1,0 +1,14 @@
+.item-list .list-group-item {
+    cursor: pointer;
+}
+
+.item-hover:hover{
+    background-color:rgb(41, 104, 240);
+    color: cornsilk;
+}
+
+.item-list {
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
