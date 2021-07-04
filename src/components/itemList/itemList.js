@@ -21,7 +21,7 @@ function ItemList({getData, renderItem, onItemSelected}) {
             setError(false);
         })
         .catch(() => onError());
-    })
+    },[])
 
     // componentDidCatch() {
     //     this.setState({
